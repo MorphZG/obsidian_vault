@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "ed195d9fcfee1cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "816a05c5618ebf61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e98718c4b4abf523",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d90c4874cac2318b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8a5d0b93157962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe689ae7a6e1751",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93710c2cc3ae91d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e34e3cd18ff8ec97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9cede34bc690468",
+    "type": "split",
+    "children": [
+      {
+        "id": "685f7553cba97ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98e9e6fd8e9548e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "database/mongodb.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5669a2d2fa9d8ef4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "database/mongodb.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbeb1f9529e7912a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2c28620fe7dd3778",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "database/mongodb.md"
+              }
+            }
+          },
+          {
+            "id": "6fed6a2a2cc9bb31",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4fe689ae7a6e1751",
+  "lastOpenFiles": [
+    "books/reading books.md",
+    "javascript/asynchronous javascript.md",
+    "daily notes/06-01-2024.md",
+    "_templates/daily note template.md",
+    "daily notes/17-12-2023.md",
+    "daily notes/16-12-2023.md",
+    "daily notes/01-01-2024.md",
+    "database/mongodb.md",
+    "javascript",
+    "daily notes/2023-12-16.md",
+    "daily notes/2023-12-17.md",
+    "database",
+    "networking/tcp-udp.md",
+    "networking/http.md",
+    "linux/stow dotfiles.md",
+    "linux/tar archive.md",
+    "linux/curl.md",
+    "employment/why me.md",
+    "employment/python developer.md",
+    "daily notes/Invalid date.md",
+    "books",
+    "_canvas/prvi.canvas",
+    "_canvas",
+    "2023-W51.md",
+    "Untitled.canvas",
+    "linux/shell-scripting-bible.md",
+    "linux/users_permissions.md",
+    "linux",
+    "networking",
+    "python/learn_more_python_hard_way.md",
+    "python/oop_notes.md",
+    "python/learn_python_hard_way.md",
+    "python/hitchhiker's_guide_to_python.md",
+    "python",
+    "employment",
+    "daily notes",
+    "_templates",
+    "2023-12-16.md",
+    "linux/Untitled.canvas"
+  ]
+}

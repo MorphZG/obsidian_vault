@@ -1,0 +1,15 @@
+{
+  "vimMode": true,
+  "attachmentFolderPath": "_assets",
+  "useTab": false,
+  "foldHeading": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "newLinkFormat": "absolute",
+  "trashOption": "local",
+  "propertiesInDocument": "visible",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false
+}

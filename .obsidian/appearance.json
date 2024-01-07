@@ -1,0 +1,10 @@
+{
+  "accentColor": "#86df9c",
+  "textFontFamily": "Hack NF",
+  "interfaceFontFamily": "Hack NF",
+  "cssTheme": "AnuPpuccin",
+  "monospaceFontFamily": "SauceCodePro Nerd Font Mono",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian"
+}
