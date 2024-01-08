@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "816a05c5618ebf61",
+        "id": "afc4a2fdf9d48b4c",
         "type": "tabs",
         "children": [
           {
-            "id": "e98718c4b4abf523",
+            "id": "cc08121465e99867",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "networking/tcp-udp.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,13 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "networking/tcp-udp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "networking/tcp-udp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anunnaki/Anunnaki.md"
+                "file": "networking/tcp-udp.md"
               }
             }
           },
@@ -131,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,12 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fe689ae7a6e1751",
+  "active": "cc08121465e99867",
   "lastOpenFiles": [
+    "networking/http.md",
+    "networking/tcp-udp.md",
+    "readme.md",
+    "python/requirements file.md",
+    "python/virtualenvs.md",
+    "javascript/asynchronous javascript.md",
     "anunnaki/Anunnaki.md",
     "anunnaki",
     "books/reading books.md",
-    "javascript/asynchronous javascript.md",
     "daily notes/06-01-2024.md",
     "_templates/daily note template.md",
     "daily notes/17-12-2023.md",
@@ -165,8 +176,6 @@
     "daily notes/2023-12-16.md",
     "daily notes/2023-12-17.md",
     "database",
-    "networking/tcp-udp.md",
-    "networking/http.md",
     "linux/stow dotfiles.md",
     "linux/tar archive.md",
     "linux/curl.md",
@@ -183,9 +192,6 @@
     "linux",
     "networking",
     "python/learn_more_python_hard_way.md",
-    "python/oop_notes.md",
-    "python/learn_python_hard_way.md",
-    "python/hitchhiker's_guide_to_python.md",
     "python",
     "employment",
     "daily notes",

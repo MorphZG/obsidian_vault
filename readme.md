@@ -6,9 +6,9 @@ Since there is still no designated workflow, notes have minimal structure. While
 
 ## Installation
 
-Download Obsidian app from [obsidian.md](https://obsidian.md/).
+- Download Obsidian app from [obsidian.md](https://obsidian.md/).
 
-Clone the repository:
+- Clone the repository:
 
 ```sh
 git clone --depth=1 https://github.com/MorphZG/Obsidian-Vault

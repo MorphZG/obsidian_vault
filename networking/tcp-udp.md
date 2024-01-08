@@ -1,8 +1,8 @@
 ---
-tags: [network, protocol]
+tags: network
 ---
 
-notes from youtube [playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQX_Zkt_8teMRsdY4sNt4BX6)
+notes from [youtube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQX_Zkt_8teMRsdY4sNt4BX6)
 
 # TCP-UDP
 
