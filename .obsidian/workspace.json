@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/mongodb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/mongodb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/mongodb.md"
+                "file": "anunnaki/Anunnaki.md"
               }
             }
           },
@@ -153,6 +151,8 @@
   },
   "active": "4fe689ae7a6e1751",
   "lastOpenFiles": [
+    "anunnaki/Anunnaki.md",
+    "anunnaki",
     "books/reading books.md",
     "javascript/asynchronous javascript.md",
     "daily notes/06-01-2024.md",
@@ -189,8 +189,6 @@
     "python",
     "employment",
     "daily notes",
-    "_templates",
-    "2023-12-16.md",
     "linux/Untitled.canvas"
   ]
 }
