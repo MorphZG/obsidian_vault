@@ -12,7 +12,7 @@ date: 2023-12-17
 **Synoptical reading**: Reading by putting multiple books in conversation with each other. Further discussion to develop novel insight and new perspectives.
 
 
+### References
 
-### references
-
-[youtube.com/video](https://www.youtube.com/watch?v=PBTbfzIK7Qk): "Become A Reading TITAN With The Four Reading Levels"
+- "Become A Reading TITAN With The Four Reading Levels" [youtube.com/video](https://www.youtube.com/watch?v=PBTbfzIK7Qk)
+- "Reading megaclass" [youtube.com/playlist](https://www.youtube.com/playlist?list=PLDSpam7EKMlWPtBNOr4WogqU4KCr28Dol)

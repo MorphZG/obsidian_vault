@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afc4a2fdf9d48b4c",
+        "id": "ea083a33e930c586",
         "type": "tabs",
         "children": [
           {
-            "id": "cc08121465e99867",
+            "id": "a0988a44f090b3f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/tcp-udp.md",
+                "file": "software/obsidian.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "networking/tcp-udp.md",
+                "file": "software/obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "networking/tcp-udp.md",
+                "file": "software/obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "networking/tcp-udp.md"
+                "file": "software/obsidian.md"
               }
             }
           },
@@ -155,22 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc08121465e99867",
+  "active": "a0988a44f090b3f4",
   "lastOpenFiles": [
-    "networking/http.md",
     "networking/tcp-udp.md",
-    "readme.md",
-    "python/requirements file.md",
+    "networking/http.md",
+    "software/obsidian.md",
+    "daily notes/01-01-2024.md",
+    "daily notes/06-01-2024.md",
+    "books/reading books.md",
+    "software/Obsidian.md",
+    "software",
+    "daily notes/17-12-2023.md",
     "python/virtualenvs.md",
+    "python/requirements file.md",
     "javascript/asynchronous javascript.md",
+    "filename^block.md",
+    "readme.md",
     "anunnaki/Anunnaki.md",
     "anunnaki",
-    "books/reading books.md",
-    "daily notes/06-01-2024.md",
     "_templates/daily note template.md",
-    "daily notes/17-12-2023.md",
-    "daily notes/16-12-2023.md",
-    "daily notes/01-01-2024.md",
     "database/mongodb.md",
     "javascript",
     "daily notes/2023-12-16.md",
@@ -187,14 +190,10 @@
     "_canvas",
     "2023-W51.md",
     "Untitled.canvas",
-    "linux/shell-scripting-bible.md",
-    "linux/users_permissions.md",
     "linux",
     "networking",
-    "python/learn_more_python_hard_way.md",
     "python",
     "employment",
-    "daily notes",
     "linux/Untitled.canvas"
   ]
 }

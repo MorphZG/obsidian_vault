@@ -1,0 +1,33 @@
+---
+tags:
+  - software
+  - obsidian
+date: 2024-01-09
+---
+
+# Daily note
+
+- [+] Obsidian
+- [ ] Markdown
+- [x] Canceled
+ 
+## TODO
+
+>[!spoiler tag]-
+>can modify the icon beside spoiler tag.
+
+>[!spoiler tag]-
+>can modify the icon beside spoiler tag.
+
+>it is also possible to add blocks for notes.
+
+Odlicno, proveo skoro 3 cuke istrazivajuci Obsidian. Lajkam. Jeben software. Jedna od vaznijih stvari mi je mogucnost cuvanja svih zapisa na lokalnom disku u obicnom markdown formatu i organizirani unutar direktorija. Drugim rjecima sam kontroliram svoje fajlove, sam se brinem oko sinkronizacije i backupa. Ne zelim ovisiti o kompaniji koja je razvila software.
+
+Program ja neki neobican nacin super jednostavan, nema nepotrebnih komplikacija. Sve radi upravo onako kako zelis da radi. A onda opet sa druge strane nudi toliko mogucnosti prilagodbe da jednostavno zelis sve isprobati. Odlicno!
+
+### Links
+
+- [Link Your Thinking](https://www.youtube.com/@linkingyourthinking)
+- [Ideaverse for Obsidian, formerly the LYT kit](https://forum.obsidian.md/t/ideaverse-for-obsidian-formerly-the-lyt-kit-now-available/390)
+- [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
+- [youtube.com/playlist by Effective](https://www.youtube.com/playlist?list=PLrI2d6gSaO9BCd8HjgkSY1yd50nyfxYpN)
