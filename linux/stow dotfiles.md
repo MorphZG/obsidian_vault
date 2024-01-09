@@ -22,7 +22,7 @@ Few important concepts to understand. Can find them in Terminology documentation
 - target directory is the location in which a package's contents will be symlinked.
 
 This is how it looks in practice:
-```
+```sh
 target-directory
     stow-directory
         package-1

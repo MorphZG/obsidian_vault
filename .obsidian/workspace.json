@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software/obsidian.md",
-                "mode": "preview",
+                "file": "linux/tar archive.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/obsidian.md",
+                "file": "linux/tar archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software/obsidian.md",
+                "file": "linux/tar archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/obsidian.md"
+                "file": "linux/tar archive.md"
               }
             }
           },
@@ -157,12 +157,15 @@
   },
   "active": "a0988a44f090b3f4",
   "lastOpenFiles": [
+    "linux/stow dotfiles.md",
+    "linux/tar archive.md",
+    "linux/curl.md",
+    "books/reading books.md",
+    "daily notes/06-01-2024.md",
+    "daily notes/01-01-2024.md",
+    "software/obsidian.md",
     "networking/tcp-udp.md",
     "networking/http.md",
-    "software/obsidian.md",
-    "daily notes/01-01-2024.md",
-    "daily notes/06-01-2024.md",
-    "books/reading books.md",
     "software/Obsidian.md",
     "software",
     "daily notes/17-12-2023.md",
@@ -179,9 +182,6 @@
     "daily notes/2023-12-16.md",
     "daily notes/2023-12-17.md",
     "database",
-    "linux/stow dotfiles.md",
-    "linux/tar archive.md",
-    "linux/curl.md",
     "employment/why me.md",
     "employment/python developer.md",
     "daily notes/Invalid date.md",
