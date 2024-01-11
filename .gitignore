@@ -1,3 +1,5 @@
 # trash files
 .trash
-.obsidian/workspace
+
+# ignore all workspace files in all subdirectories relative to .gitignore file
+**/workspace*
