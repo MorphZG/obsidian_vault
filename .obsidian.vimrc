@@ -8,3 +8,5 @@ imap jk <Esc>
 nmap j gj
 nmap k gk
 
+" current line will show number, other lines relativenumber
+set number relativenumber

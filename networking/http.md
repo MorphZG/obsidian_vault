@@ -1,5 +1,5 @@
 ---
-tags: [network, protocol]
+tags: network protocol
 ---
 # Notes from youtube
 
