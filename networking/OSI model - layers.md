@@ -17,3 +17,8 @@ The modern internet is not based on OSI, but on the simpler [[networking/tcp-udp
 5. Session layer: Sync & send to port, API's, sockets, WinSock
 6. Presentation layer: Syntax layer, SSL, SSH, IMAP, FTP, MPEG, JPEG
 7. Application layer: User interaction, HTTP, FTP, IRC, SSH, DNS
+
+## Read more
+
+- [youtube.com/video](https://www.youtube.com/watch?v=LkolbURrtTs) "OSI model: A Practical Perspective - Networking Fundamentals - Lesson 2a" by Practical Networking
+- [youtube.com/video](https://www.youtube.com/watch?v=0aGqGKrRE0g) "OSI model: A Practical Perspective - Networking Fundamentals - Lesson 2" by Practical Networking
