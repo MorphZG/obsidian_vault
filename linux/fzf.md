@@ -1,18 +1,23 @@
 # Fuzzy Finder FZF
 
->Open source fuzzy finder, can be downloaded from the [github.com/junegunn/fzf](https://github.com/junegunn/fzf)
+Open source fuzzy finder, can be downloaded from the [github.com/junegunn/fzf](https://github.com/junegunn/fzf)
+
+## Installation
+
+Clone the repository and run the install script.
+
+```shell
+git clone --depth=1 https://github.com/junegunn/fzf && cd fzf && ./install
+```
+
+>Would be good to update from time to time by running the command from the cloned fzf directory:
+>`git pull && ./install`
 
 ## Daily usage
 
 ### Keybinds
 
 Check out the [wiki page](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings) for more tips on how to configure shell key bindings.
-
-Be sure that keybinds are enabled. If not, follow the github installation guide. Clone the repository and run the install script.
-
-```shell
-git clone --depth=1 https://github.com/junegunn/fzf && cd fzf && ./install
-```
 
 - `ctrl-t` - Paste the selected files or directories into the prompt. Type the command and press the keybind to activate the search. Set the `$FZF_CTRL_T_COMMAND` to change the key or `$FZF_CTRL_T_OPTS` to add additional options like adding the preview
 
