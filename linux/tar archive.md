@@ -1,5 +1,6 @@
 ---
-tags: tar linux
+tags:
+  - linux
 ---
 
 # Archives with Tar

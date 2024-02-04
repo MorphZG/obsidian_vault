@@ -1,5 +1,7 @@
 ---
-tags: [curl, network, linux]
+tags:
+  - network
+  - linux
 ---
 
 # cURL

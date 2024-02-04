@@ -1,3 +1,7 @@
+---
+tags: linux
+---
+
 # Fuzzy Finder FZF
 
 Open source fuzzy finder, can be downloaded from the [github.com/junegunn/fzf](https://github.com/junegunn/fzf)
@@ -19,7 +23,7 @@ git clone --depth=1 https://github.com/junegunn/fzf && cd fzf && ./install
 
 Check out the [wiki page](https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings) for more tips on how to configure shell key bindings.
 
-- `ctrl-t` - Paste the selected files or directories into the prompt. Type the command and press the keybind to activate the search. Set the `$FZF_CTRL_T_COMMAND` to change the key or `$FZF_CTRL_T_OPTS` to add additional options like adding the preview
+- `ctrl-t` - Paste the selected files or directories into the prompt. Type the command into terminal and press the keybind to activate the search. Set the `$FZF_CTRL_T_COMMAND` to change the key or `$FZF_CTRL_T_OPTS` to add additional options like adding the preview
 
 ```shell
 export FZF_CTRL_OPTS="
@@ -28,7 +32,7 @@ export FZF_CTRL_OPTS="
 "
 ```
 
-- `ctrl-r`  Browse the history and paste the selected command onto the prompt. To view the history in chronological order press the `ctrl-r` again, it toggles sorting by relevance. `$FZF_CTRL_R_OPTS` can hold additional options.
+- `ctrl-r`  Browse the history of commands and paste the selected command onto the prompt. To view the history in chronological order press the `ctrl-r` again, it toggles sorting by relevance. `$FZF_CTRL_R_OPTS` can hold additional options.
 
 ```shell
 # ctrl-/ to toggle small preview window to see the full command
@@ -47,5 +51,7 @@ export FZF_CTRL_R_OPTS="
 # print tree structure in the preview window
 export FZF_ALT_C_OPTS="--preview 'tree -C {} | head -300'"
 ```
+
+## Configuration
 
 

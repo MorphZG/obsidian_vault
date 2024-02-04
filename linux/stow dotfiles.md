@@ -1,5 +1,7 @@
 ---
-tags: [stow, dotfiles, linux]
+tags:
+  - dotfiles
+  - linux
 ---
 
 GNU stow manual
