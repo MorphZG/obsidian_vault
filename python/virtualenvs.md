@@ -1,5 +1,5 @@
 ---
-tags: python coding virtualenv
+tags: python, coding, virtualenv
 ---
 
 # Python virtual environments
@@ -35,6 +35,7 @@ This prefix lets us know that the environment env_name is currently active, mean
 To leave the environment, simply type the command deactivate and you will return to your original directory. 
 
 ### Youtube guides:
+
 - [Installing Python Packages with pip and virtualenv](https://www.youtube.com/watch?v=UqkT2Ml9beg)
 - [Python VENV Explained - Python Virtual Environment Tutorial](https://www.youtube.com/watch?v=SeJvz-ngCnk)
 

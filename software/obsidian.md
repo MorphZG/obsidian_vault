@@ -1,14 +1,12 @@
 ---
-tags:
-  - software
-  - obsidian
+tags: software, obsidian
 date: 2024-01-09
 ---
 
 # Daily note
 
-- [+] Obsidian
-- [ ] Markdown
+- [+] Completed
+- [ ] Todo
 - [x] Canceled
  
 ## TODO

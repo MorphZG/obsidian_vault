@@ -1,3 +1,8 @@
+---
+tags: window_manager, linux
+---
+
+
 # Awesome window manager
 
 ## installation and basic configuration
@@ -29,7 +34,7 @@ Help window with keybinds, change the colors to improve visibility:
 `mod + r` - run prompt
 `mod + return` - open terminal
 
-### read more
+## read more
 
-"An Intro To Awesome WM, Your First Tiling Window Manager" by Vashinator
-[youtube.com/video](https://www.youtube.com/watch?v=WKdoC_VB2tU)
+- [youtube.com/video](https://www.youtube.com/watch?v=WKdoC_VB2tU) "An Intro To Awesome WM, Your First Tiling Window Manager" by Vashinator
+

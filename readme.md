@@ -11,5 +11,5 @@ Since there is still no designated workflow, notes have minimal structure. While
 - Clone the repository:
 
 ```sh
-git clone --depth=1 https://github.com/MorphZG/Obsidian-Vault
+git clone --depth 1 https://github.com/MorphZG/Obsidian-Vault
 ```

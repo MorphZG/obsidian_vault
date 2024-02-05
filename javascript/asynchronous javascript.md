@@ -1,5 +1,5 @@
 ---
-tags: javascript async coding
+tags: javascript, async, coding
 ---
 
 # Asynchronous Javascript

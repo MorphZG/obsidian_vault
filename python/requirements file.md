@@ -1,5 +1,5 @@
 ---
-tags: python requirements coding
+tags: python, requirements, coding
 ---
 
 # Requirements file

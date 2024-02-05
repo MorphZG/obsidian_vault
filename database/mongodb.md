@@ -1,8 +1,5 @@
 ---
-tags:
-  - mongodb
-  - mongoose
-  - database
+tags: mongodb, mongoose, database
 date: 2024-01-01
 ---
 
