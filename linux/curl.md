@@ -6,8 +6,15 @@ tags: network, linux
 
 ## options
 
-`--f, --fail`
-(HTTP) Fail fast with no output at all on server errors. This is useful to enable scripts and users to better deal with failed attempts. In normal cases when an HTTP server fails to deliver a document, it returns an HTML document stating so, which often also describes why and more. This flag prevents curl from outputting that and return error 22.
+```sh
+curl -X POST -H "Authorization: Bearer your_token" -d '{"key": "value"}' https://api.example.com/resource
+```
+
+`-X --request`
+`-H --header`
+`-0 --output`
+`-d --data`
+`-f, --fail`
 
 ## references
 
