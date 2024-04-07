@@ -12,5 +12,6 @@ date: 2023-12-17
 
 ### References
 
-- "Become A Reading TITAN With The Four Reading Levels" [youtube.com/video](https://www.youtube.com/watch?v=PBTbfzIK7Qk)
-- "Reading megaclass" [youtube.com/playlist](https://www.youtube.com/playlist?list=PLDSpam7EKMlWPtBNOr4WogqU4KCr28Dol)
+- [youtube.com/video](https://www.youtube.com/watch?v=PBTbfzIK7Qk) "Become A Reading TITAN With The Four Reading Levels"
+- [youtube.com/playlist](https://www.youtube.com/playlist?list=PLDSpam7EKMlWPtBNOr4WogqU4KCr28Dol) "Reading megaclass"
+- [dev.to/blog](https://dev.to/yanpi/how-to-never-forget-mastering-the-art-of-retaining-knowledge-531h) "Master the art of retaining knowledge"
