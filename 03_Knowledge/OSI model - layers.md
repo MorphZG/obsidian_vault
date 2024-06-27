@@ -6,7 +6,7 @@ tags: network
 
 The **Open Systems Interconnection** (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early 1980.
 
-The modern internet is not based on OSI, but on the simpler [[tcp-udp|TCP/IP]] model. However, the OSI model is still widely used, as it helps visualize and communicate how networks operate and helps isolate and troubleshoot networking problems.
+The modern internet is not based on OSI, but on the simpler [[03_Knowledge/tcp-udp|TCP/IP]] model. However, the OSI model is still widely used, as it helps visualize and communicate how networks operate and helps isolate and troubleshoot networking problems.
 
 ## 7 layers of OSI
 

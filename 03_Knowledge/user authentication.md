@@ -1,13 +1,9 @@
 ---
-layout: post
 date: 2024-03-27
 title: "Beyond the Login Screen: Safeguarding Your Web Application"
-author: Zoran Topic
 tags:
   - security
   - network
-categories: security
-prompt: "Write me an article with a 2000 words. I want you to cover these terms: common vulnerabilities, common pitfalls, website security, user authentication, secure storage of user data, encryption (what is encryption? why it is important? how and where we use it? why it is not always secure?), password hashing and salt (what is hashing? what are hash function? how it is different from encryption? how we use hashing? why it is important? is it secure? when hashing passwords we do not store password at all, instead we store hash values and compare them on login. Why and when we add the salt? what is salt?), 0Auth (what is OAuth? how it is different from other forms of authentication? is it secure? who was the first to implement OAuth? how OAuth works?). Last section should be implementation in node.js with few code examples. You can skip the basic instructions like setting up the environment  and jump straight to the point. My audience are web developers who already knows and understands the basics. When writing an article make sure to write as tough i am directly addressing the reader. Make it interesting and relaxed read."
 ---
 
 # Beyond the login screen: Safeguarding your web application

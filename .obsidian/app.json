@@ -8,7 +8,7 @@
   "showInlineTitle": false,
   "newLinkFormat": "absolute",
   "trashOption": "local",
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "legacyEditor": false

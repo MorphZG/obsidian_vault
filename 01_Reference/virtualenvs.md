@@ -30,7 +30,7 @@ Your terminal prompt will now be prefixed with the name of your environment, in 
 
 This prefix lets us know that the environment env_name is currently active, meaning that when we create programs here they will use only this particular environment’s settings and packages. 
 
->When doing a project within virtual environment you should have a file with listed [[requirements file|requirements]]. Tools like [[pip]] can create it but also install from it very easily.
+>When doing a project within virtual environment you should have a file with listed [[01_Reference/requirements file|requirements]]. Tools like [[pip]] can create it but also install from it very easily.
 
 To leave the environment, simply type the command deactivate and you will return to your original directory. 
 
