@@ -1,3 +1,7 @@
+---
+tags: index,
+---
+
 # Obsidian notes
 
 Git repository for my notes. Still looking for a way to logically organize my thoughts. Currently there are few directories for each topic. Every note is written using plain markdown syntax with yaml front matter. Most important property of every note are tags where each note can have maximum of three.
@@ -11,5 +15,6 @@ Since there is still no designated workflow, notes have minimal structure. While
 - Clone the repository:
 
 ```sh
-git clone --depth 1 https://github.com/MorphZG/Obsidian-Vault
+
+git clone --depth 1 https://github.com/MorphZG/obsidian_vault.git
 ```
