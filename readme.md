@@ -11,10 +11,15 @@ Since there is still no designated workflow, notes have minimal structure. While
 ## Installation
 
 - Download Obsidian app from [obsidian.md](https://obsidian.md/).
-
-- Clone the repository:
+- Clone the repository and open it as vault.
 
 ```sh
 
 git clone --depth 1 https://github.com/MorphZG/obsidian_vault.git
 ```
+
+- After starting the Obsidian you must create your own vault or open the existing one. Vaults are just directories that holds your notes as markdown files.
+ 
+## Workflow
+
+Link to my [[000_Workflow|note taking workflow]] with Obsidian. It will possibly change a few times as it did already. Main goal is to keep it pragmatic with focus on simplicity.
