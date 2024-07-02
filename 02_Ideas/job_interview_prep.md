@@ -1,5 +1,6 @@
 ---
-tags: employment
+tags:
+  - employment
 ---
 
 # Job interview

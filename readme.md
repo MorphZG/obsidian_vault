@@ -1,5 +1,6 @@
 ---
-tags: index,
+tags:
+  - index
 ---
 
 # Obsidian notes

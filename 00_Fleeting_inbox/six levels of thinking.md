@@ -1,5 +1,4 @@
 ---
-title: Six levels of thinking
 tags:
   - reading
   - productivity

@@ -11,5 +11,7 @@
   "propertiesInDocument": "source",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "showRibbon": true,
+  "tabSize": 2
 }

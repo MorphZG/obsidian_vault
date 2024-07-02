@@ -1,5 +1,7 @@
 ---
-tags: linux, utility
+tags:
+  - linux
+  - utility
 ---
 
 # Fuzzy Finder FZF

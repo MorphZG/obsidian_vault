@@ -1,5 +1,8 @@
 ---
-tags: book, employment, python
+tags:
+  - book
+  - employment
+  - python
 ---
 
 # Python crash course by Eric Matthes

@@ -1,5 +1,8 @@
 ---
-tags: linkux, network, utility
+tags:
+  - linux
+  - network
+  - utility
 ---
 
 # cURL

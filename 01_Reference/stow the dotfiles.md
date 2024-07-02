@@ -1,5 +1,8 @@
 ---
-tags: dotfiles, linux, utility
+tags:
+  - dotfiles
+  - linux
+  - utility
 ---
 
 # Understanding stow

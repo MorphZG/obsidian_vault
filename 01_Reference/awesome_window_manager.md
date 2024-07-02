@@ -1,5 +1,7 @@
 ---
-tags: window_manager, linux
+tags:
+  - window_manager
+  - linux
 ---
 
 

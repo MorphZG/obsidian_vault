@@ -1,5 +1,6 @@
 ---
-tags: obsidian
+tags:
+  - obsidian
 ---
 
 # My Obsidian Workflow

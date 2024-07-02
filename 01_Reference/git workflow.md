@@ -1,5 +1,7 @@
 ---
-tags: git, workflow,
+tags:
+  - git
+  - workflow
 ---
 
 # Git workflow

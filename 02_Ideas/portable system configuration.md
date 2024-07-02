@@ -1,5 +1,8 @@
 ---
-tags: dotfiles, linux, workflow
+tags: 
+  - dotfiles
+  - linux
+  - workflow
 ---
 
 # Create and recreate portable system configuration

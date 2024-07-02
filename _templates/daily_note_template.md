@@ -1,3 +1,4 @@
 ---
-tags: daily
+tags:
+  - daily
 ---

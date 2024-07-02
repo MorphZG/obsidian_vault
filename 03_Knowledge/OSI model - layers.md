@@ -1,5 +1,6 @@
 ---
-tags: network
+tags:
+  - network
 ---
 
 # OSI Model

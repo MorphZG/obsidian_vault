@@ -1,5 +1,6 @@
 ---
-tags: employment
+tags:
+  - employment
 ---
 
 How to get a developer job?

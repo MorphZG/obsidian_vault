@@ -1,5 +1,8 @@
 ---
-tags: python, coding, virtualenv
+tags:
+  - python
+  - coding
+  - virtualenv
 ---
 
 # Python virtual environments

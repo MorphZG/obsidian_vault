@@ -1,5 +1,7 @@
 ---
-tags: book, reading
+tags:
+  - book
+  - reading
 date: 2023-12-17
 ---
 
