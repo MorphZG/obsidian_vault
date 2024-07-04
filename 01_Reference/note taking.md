@@ -1,3 +1,9 @@
+---
+tags:
+  - productivity
+  - writing
+---
+
 # Note taking
 
 ## "How to take smart notes" by Sonke Ahrens
