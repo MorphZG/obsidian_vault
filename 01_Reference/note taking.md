@@ -21,3 +21,7 @@ This is where organisation of writing and note taking comes into play.
 ### Everything you need to know
 
 Good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything in your head. Good structure enables you to completely immerse yourself in a state of flow.
+
+## Reference
+
+- "How to take smart Notes: One simple technique to boost writing, learning and thinking" by Sonke Ahrens

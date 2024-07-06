@@ -1,9 +1,9 @@
 {
   "accentColor": "#86df9c",
-  "textFontFamily": "Hack NF",
-  "interfaceFontFamily": "Hack NF",
+  "textFontFamily": "Ubuntu",
+  "interfaceFontFamily": "Agave Nerd Font",
   "cssTheme": "AnuPpuccin",
-  "monospaceFontFamily": "SauceCodePro Nerd Font Mono",
+  "monospaceFontFamily": "Ubuntu Mono",
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "obsidian"
