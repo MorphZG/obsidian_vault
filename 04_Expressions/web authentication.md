@@ -4,6 +4,7 @@ title: "Beyond the Login Screen: Safeguarding Your Web Application"
 tags:
   - security
   - network
+  - javascript
 ---
 
 # Beyond the login screen: Safeguarding your web application

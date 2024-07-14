@@ -10,11 +10,11 @@ Javascript is synchronous, blocking, single-threaded language. Code executes top
 Single-threaded? Thread is a process that program can use to run a task, each thread can only do one task at a time.
 
 There are ways to implement asynchronous code by using:
-- [[timeouts and intervals]]
-- [[callbacks]]
-- [[promises]]
-- [[async-await]]
-- [[event loop]]
+- timeouts and intervals
+- callbacks
+- promises
+- async/await
+- event loop
 
 ## Read more
 

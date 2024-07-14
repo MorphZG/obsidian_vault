@@ -13,5 +13,8 @@
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "showRibbon": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Fleeting_inbox",
+  "useMarkdownLinks": true
 }

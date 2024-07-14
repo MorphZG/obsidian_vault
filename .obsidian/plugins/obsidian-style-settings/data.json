@@ -12,5 +12,7 @@
   "anuppuccin-theme-settings@@anp-card-layout-actions": false,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
-  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle"
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
+  "anuppuccin-theme-settings@@tag-border-width": 1,
+  "anuppuccin-theme-settings@@tag-radius": 1
 }

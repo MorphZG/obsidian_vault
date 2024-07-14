@@ -5,12 +5,6 @@ tags:
 
 # Job interview
 
-## Inspiration links
-
-- [If you don't fully qualify for the job](https://kalebmckelvey.com/blog/how-to-write-a-cv-and-interview-if-you-dont-fully-qualify-for-the-job/)
-- [How to impress](https://www.youtube.com/watch?v=cHyYlFCaXPM)
-- [Tech interview handbook](https://www.techinterviewhandbook.org/)
-
 ## Why me?
 
 Very passionate about backend mechanics. how things work in the background? First and most important thing to any backend solution is how we store and manipulate data. data science is huge and when paired with machine learning and ai.... it have huge potential to become one of the number one skills to have.
@@ -31,3 +25,9 @@ At the end of the interview, the very common question comes. "Do you have any qu
 
 - Na sto bih trebao staviti svoj najveci fokus u pocetku?
 - Vezano za radno mjesto naravno, koje bi bile neke najljepse i najgore strane posla?
+
+## Read more
+
+- [If you don't fully qualify for the job](https://kalebmckelvey.com/blog/how-to-write-a-cv-and-interview-if-you-dont-fully-qualify-for-the-job/)
+- [How to impress](https://www.youtube.com/watch?v=cHyYlFCaXPM)
+- [Tech interview handbook](https://www.techinterviewhandbook.org/)
