@@ -28,6 +28,7 @@ At the end of the interview, the very common question comes. "Do you have any qu
 
 ## Read more
 
-- [If you don't fully qualify for the job](https://kalebmckelvey.com/blog/how-to-write-a-cv-and-interview-if-you-dont-fully-qualify-for-the-job/)
-- [How to impress](https://www.youtube.com/watch?v=cHyYlFCaXPM)
-- [Tech interview handbook](https://www.techinterviewhandbook.org/)
+- [[00_Fleeting_inbox/job hunting for junior devs|job hunting for junior devs]] obsidian note
+- [github.com/yangshun](https://github.com/yangshun/tech-interview-handbook) "Tech interview handbook" - Curated coding interview preparation materials for busy software engineers 
+- [youtube.com/video](https://www.youtube.com/watch?v=cHyYlFCaXPM) "The Preamble: Instantly Impress Someone You Like" by Charisma on Command
+- [zerotomastery.io/blog](https://zerotomastery.io/blog/how-to-ace-coding-interview/) "How to ace coding interview?"

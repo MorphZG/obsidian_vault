@@ -12,7 +12,7 @@ Even the longest journey starts with a single step. I was searching for way to o
 - **00_Fleeting_inbox**
 Fleeting notes or inbox directory is a place where fresh notes start. This is a starting point for notes that still needs to be refined, quick thoughts and work under progress.
 - **01_Reference**
-This directory is for practical knowledge. From tools and software to life and philosophy. Reference notes are direct notes from someone else work.
+This directory is for practical knowledge. From tools and software to life and philosophy. Reference notes are direct notes from someone else work. Reference notes should have a front matter written in [[YAML]] with properties like tags, source and author.
 - **02_Ideas_and_projects**
 These are my own ideas, personal thoughts about something. Place to start and manage personal projects. Like a cooking pot with different ingredients, almost ready to be served. As opposed to references, these are my own views of particular subject which can but don't have to be right.
 - **03_Knowledge**

@@ -2,13 +2,15 @@
 tags:
   - productivity
   - writing
+source:
+  - book
+title: How to take smart notes
+author: Sonke Ahrens
 ---
 
-# Note taking
-
-## "How to take smart notes" by Sonke Ahrens
-
-### Introduction
+# How to take smart notes
+###### One Simple Technique to Boost Writing, Learning and Thinking
+## Introduction
 
 When writing about any kind of topic it is harder to start with blank slate and go directly from thoughts to paper. Start with notes and go from there.
 
@@ -18,10 +20,11 @@ Self discipline is hard to achieve with pure willpower. Willpower depletes quick
 
 This is where organisation of writing and note taking comes into play.
 
-### Everything you need to know
+## Everything you need to know
 
 Good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything in your head. Good structure enables you to completely immerse yourself in a state of flow.
 
 ## Reference
 
 - "How to take smart Notes: One simple technique to boost writing, learning and thinking" by Sonke Ahrens
+-  [obsidian.rocks/blog](https://obsidian.rocks/how-to-take-book-notes-in-obsidian/) "How to take book notes in obsidian"

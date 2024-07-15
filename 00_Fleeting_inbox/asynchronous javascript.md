@@ -1,7 +1,8 @@
 ---
-tags: 
+tags:
   - javascript
   - coding
+  - webdev
 ---
 
 # Asynchronous Javascript
