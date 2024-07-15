@@ -16,5 +16,5 @@
   "tabSize": 2,
   "newFileLocation": "folder",
   "newFileFolderPath": "00_Fleeting_inbox",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
