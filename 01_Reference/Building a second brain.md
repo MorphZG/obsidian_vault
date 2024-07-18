@@ -2,6 +2,10 @@
 tags:
   - productivity
   - writing
+source:
+  - book
+title: Building a second brain
+author: Thiago Forte
 ---
 
 # Building a second brain

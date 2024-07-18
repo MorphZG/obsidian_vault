@@ -1,6 +1,10 @@
 ---
 tags:
-  - tag
-  - tag
-date: 2023-12-17
+  - tag1
+  - tag2
+source:
+  - book
+title: Title of source
+author: fName lName
 ---
+

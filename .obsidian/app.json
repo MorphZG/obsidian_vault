@@ -2,7 +2,7 @@
   "vimMode": true,
   "attachmentFolderPath": "_assets",
   "useTab": false,
-  "foldHeading": true,
+  "foldHeading": false,
   "livePreview": false,
   "defaultViewMode": "preview",
   "showInlineTitle": false,
@@ -16,5 +16,13 @@
   "tabSize": 2,
   "newFileLocation": "folder",
   "newFileFolderPath": "00_Fleeting_inbox",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "foldIndent": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
