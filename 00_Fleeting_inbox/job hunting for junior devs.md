@@ -47,6 +47,6 @@ As a user, i would like to use this feature
 
 ## Read more
 
-- [[02_Ideas_and_projects/job interview preparation|job interview preparation]] obsidian note
+- [[01_Reference/employment/job interview preparation|job interview preparation]] obsidian note
 - [youtube.com/video](https://www.youtube.com/watch?v=6nz8GXjxiHg) "How to Get a Developer Job – Even in This Economy" by freecodecamp
 - [kalebmckelvey.com/blog](https://kalebmckelvey.com/blog/how-to-write-a-cv-and-interview-if-you-dont-fully-qualify-for-the-job/) "How to Write a CV and Interview if You Don't Fully Qualify For The Job"
