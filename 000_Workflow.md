@@ -60,7 +60,7 @@ Improving my Obsidian workflow involves refining the current system, ensuring cl
 - **Context-Based Tags:** Use context-based tags to quickly decide where a note should go (e.g., `#draft`, `#final`, `#personal`).
 - **Purpose-Driven Categories:** Ask yourself what the primary purpose of the note is. Is it a reference for future use, an idea you're developing, or knowledge you want to solidify?
 
-### SUb-directories and tags
+### Sub-directories and tags
 - **sub-directories:** Break down categories into more specific sub-directories. For instance, within `02_Ideas_and_projects`, have sub-directories like `Work`, `Personal`, `Creative`.
 - **Tags:** Use tags for cross-referencing and multi-faceted categorisation. For example, a note in `01_Reference` about a new app can have tags like `#software`, `#productivity`.
 
@@ -71,8 +71,10 @@ Improving my Obsidian workflow involves refining the current system, ensuring cl
 - **Daily Note:** Use the Daily Note plugin to capture fleeting thoughts, which can then be categorised later.
 
 ### Plugins
-- **Dataview:** To create dynamic views of your notes. For instance, you can create a table of all notes tagged with `#project` or a list of all `#reference` notes with a specific tag.
+
+- **Dataview** Treat your Obsidian Vault as a database which you can query from.  To create dynamic views of your notes. For instance, you can create a table of all notes tagged with `#project` or a list of all `#reference` notes with a specific tag. Provides a JavaScript API and pipeline-based query language for filtering, sorting, and extracting data from Markdown pages. More info can be found at [github.com/repository](https://github.com/blacksmithgu/obsidian-dataview)
 - **Templater** Templater is a template language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions. With Templater, you will be able to create powerful templates to automate manual tasks. There is a well written documentation available at [silentvoid13.com/documentation](https://silentvoid13.github.io/Templater/)
+- **Excalidraw** The Obsidian-Excalidraw plugin integrates Excalidraw, a feature rich sketching tool, into Obsidian. You can store and edit Excalidraw files in your vault, you can embed drawings into your documents, and you can link to documents and other drawings to/and from Excalidraw. For a showcase of Excalidraw features browse the github repo at [github.com/repository](https://github.com/excalidraw/excalidraw).
 
 ## Regular reviews
 
