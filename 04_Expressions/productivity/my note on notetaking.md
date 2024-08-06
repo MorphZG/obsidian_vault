@@ -5,6 +5,7 @@ tags:
   - employment
 date: 2024-08-06
 ---
+![[_assets/note-taking.jpg]]
 
 # Note Taking as a Learning Tool
 
@@ -140,3 +141,7 @@ So, grab a notebook or fire up Obsidian, and start turning your scattered though
 - [[01_Reference/productivity/Building a second brain|Building a second brain]] - book notes
 - [[00_Fleeting_inbox/ChatGPT on notetaking|ChatGPT on notetaking]] - personal idea
 - [youtube.com/video](https://www.youtube.com/watch?v=ZKNL8Yt8_dE) - "This made me not hate note taking as developer" by Joshua Morony
+- [cuaa.edu/blogpost](https://blog.cuaa.edu/5-methods-of-note-taking/) "5 methods of note taking"
+
+###### Credits:
+Image taken from: https://blog.cuaa.edu/5-methods-of-note-taking/
