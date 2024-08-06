@@ -135,7 +135,7 @@ So, grab a notebook or fire up Obsidian, and start turning your scattered though
 
 ## Reference
 
-[[00_Fleeting_inbox/my note on notetaking|my note on notetaking]] - personal idea
+[[04_Expressions/productivity/my note on notetaking|my note on notetaking]] - personal idea
 [[000_Workflow|Workflow]] - personal idea
 [[01_Reference/productivity/How to take smart notes|How to take smart notes]] - book reference
 [[01_Reference/productivity/Building a second brain|Building a second brain]] - book reference
