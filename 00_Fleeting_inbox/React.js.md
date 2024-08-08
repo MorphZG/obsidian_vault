@@ -12,13 +12,12 @@ These are the notes i have created while following the React course on [youtube.
 
 ## Table of Contents
 
-- [React Crash Course 2024](#react-crash-course-2024)
-  - [Table of Contents](#table-of-contents)
-  - [About course](#about-course)
-  - [My notes](#my-notes)
-    - [Single page application](#single-page-application)
-    - [What happens after initial request by the user?](#what-happens-after-initial-request-by-the-user)
-  - [Course sections and timestamps](#course-sections-and-timestamps)
+- [React Crash Course 2024](#react\ crash\ course\ 2024)
+  - [Table of Contents](#table\ of\ contents)
+  - [About course](#about\ course)
+  - [My notes](#my\ notes)
+    - [Single page application](#single\ page\ application)
+    - [What happens after initial request by the user?](#what\ happens\ after\ initial\ request\ by\ the\ user)
 
 ## About course
 

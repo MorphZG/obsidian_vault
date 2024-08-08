@@ -39,3 +39,7 @@ tags:
 - Develop expertise in one area of programming, without getting stuck
 - Continue to learn on your own time, maintain healthy work-life balance
 - Find ways to help those who are just starting out
+
+### Referenecs
+  
+  - 

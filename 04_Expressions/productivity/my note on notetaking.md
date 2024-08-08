@@ -12,6 +12,7 @@ date: 2024-08-06
 _Retain Knowledge and Spark New Ideas. Start with a single note, connected and reconnected many times in to the future. Let it boil and cook for a while. Just wait and see what happens..._
 
 ## The Importance of Taking Notes
+
 If you're like most people, you've probably scribbled down notes in the margins of a textbook, jotted a few thoughts on a notepad, or tapped out reminders on your phone. But have you ever considered how structured note taking can transform your learning process and spark new and fresh ideas? For those diving into new fields, like i am jumping into a web development, note taking isn't just something you do here and there. Notes should be like a living, always evolving organism. If done right, note taking can be a powerful tool for personal growth and creativity. Not only retaining the new knowledge but as a tool help you develop new insights and wider perspective. In this post, i will share my own experience with note taking, and how leveraging tools like Obsidian can supercharge thinking capacity.
 
 ## A Brief History of Note-Taking

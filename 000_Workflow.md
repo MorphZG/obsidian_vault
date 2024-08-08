@@ -54,3 +54,9 @@ I'm still looking for a well-structured way to link notes. Options include:
 - Inline styled wiki links
 
 Each method has pros and cons. Currently, the most organized approach seems to be a combination of front matter tags and linking everything at the bottom as a footnote or reference section.
+
+## References
+
+[[04_Expressions/productivity/my note on notetaking|my note on notetaking]] - personal idea
+[[00_Fleeting_inbox/ChatGPT on notetaking|ChatGPT on notetaking]] - personal idea
+[[001_Index|Index]] - index file
